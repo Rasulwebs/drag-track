@@ -18,9 +18,9 @@
     "framer-motion": "^11.2.11",
     "lucide-react": "^0.396.0",
     "prop-types": "^15.8.1",
-    "react": "^19.0.0-beta-26f2496093-20240514",
+    "react": "^18.2.0",
     "react-compiler-runtime": "^19.0.0-beta-27714ef-20250124",
-    "react-dom": "^19.0.0-beta-26f2496093-20240514",
+    "react-dom": "^18.2.0",
     "zustand": "^4.5.3"
   },
   "devDependencies": {
